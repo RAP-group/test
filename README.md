@@ -5,6 +5,7 @@ I am Joseph.
 
 This is **bold** text. 
 
+- I have a cat named Mica
 - "My job is beach" -Ken
 - Hello from Alexandria!
 - Me gusta el invierno
